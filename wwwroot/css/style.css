@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+/* Font Awesome - Free*/
+@import "@fortawesome/fontawesome-free/css/all.min.css";
+
+/* Main */
+@import "tailwindcss/base.css";
+@import "base.css";
+@import "tailwindcss/components.css";
+@import "components.css";
+@import "tailwindcss/utilities.css";
+@import "utilities.css";

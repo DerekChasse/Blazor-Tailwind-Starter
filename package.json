@@ -1,0 +1,39 @@
+{
+  "name": "blazor_tailwind_starter",
+  "version": "1.0.0",
+  "description": "Blazor + Tailwind CSS starter project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "blazor",
+    "tailwind"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@tailwindcss/aspect-ratio": "^0.2.2",
+    "autoprefixer": "^10.3.6",
+    "del": "^6.0.0",
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-file-include": "^2.3.0",
+    "gulp-postcss": "^9.0.1",
+    "gulp-purgecss": "^4.0.3",
+    "gulp-sourcemaps": "^3.0.0",
+    "gulp-uglify-es": "^3.0.0",
+    "postcss": "^8.3.8",
+    "postcss-custom-properties": "^12.0.0",
+    "postcss-import": "^14.0.2",
+    "postcss-nested": "^5.0.6",
+    "precss": "^4.0.0",
+    "readable-stream": "^3.6.0",
+    "tailwindcss": "^2.2.16",
+    "tailwindcss-dir": "^4.0.0"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.4"
+  }
+}
