@@ -129,7 +129,7 @@ const fonts = () => {
 
 // Clean
 const clean = () => {
-    console.log("Cleaning dist folder for fresh start.");
+    console.log("Cleaning dist folders.");
 
     return del([paths.css.dest, paths.fonts.dest, paths.js.dest])
 };
